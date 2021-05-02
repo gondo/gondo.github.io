@@ -5,4 +5,5 @@
 layout: default
 ---
 
-<h1>Hi</h1>
+<h1>gondo</h1>
+{{ site.url }}
